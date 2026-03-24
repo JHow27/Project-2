@@ -5,6 +5,12 @@ import pygame
 from settings import Settings
 from ship import Ship
 from bullet import Bullet
+
+"""
+pg.229-231 (setup)
+pg.235-237 (drawing ship to screen)
+"""
+
 class AlienInvasion:
     '''Overall class to manage geame assets and behavior'''
 
