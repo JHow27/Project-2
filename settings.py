@@ -1,3 +1,5 @@
+"""pg.232"""
+
 class Settings:
     '''A class to store all settings for Alien Invasion.'''
     def _init_(self):
